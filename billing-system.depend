@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692173796 source:c:\users\computer\desktop\programming\repository in github\billing-system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
